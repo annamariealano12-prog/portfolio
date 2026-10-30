@@ -1,0 +1,3 @@
+Put your resume in this folder and name it: resume.pdf
+(Use a copy without your phone number, because the repo is public.)
+Then delete this text file.
